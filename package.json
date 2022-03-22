@@ -1,0 +1,7 @@
+{
+  "name": "react-sample",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Hello! package.json'",
+  }
+}
